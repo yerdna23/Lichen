@@ -1,6 +1,6 @@
 # Lichen
 *Area vs Diversidad*
-
+*Estudio tesis.*
 ## Hipótesis
 *H1: El numero de especies de liquenes incremeta con el area y con la diversidad de forofitos del islote*
 
